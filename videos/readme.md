@@ -1,0 +1,1 @@
+File generated from Firefly describing a hallway in a mall

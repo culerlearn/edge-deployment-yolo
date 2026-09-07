@@ -65,8 +65,9 @@ edge-deployment-yolo/
 │   ├── 02_export_onnx.py
 │   └── 04_runtime.py
 ├── videos/
-│   └── mall_hallway.mp4
+│   └── mall-hallway.mp4
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
@@ -74,7 +75,7 @@ edge-deployment-yolo/
 
 ## Test Footage
 
-`videos/mall_hallway.mp4` is a generated video of pedestrians walking through a mall hallway, used throughout Module 4 as the live detection test source. Using a live camera instead is a one-line change, covered in the Module 4 lesson.
+`videos/mall-hallway.mp4` is a generated video of pedestrians walking through a mall hallway, used throughout Module 4 as the live detection test source. Using a live camera instead is a one-line change, covered in the Module 4 lesson.
 
 ## Quick Start
 
@@ -100,4 +101,4 @@ Common errors and their fixes are covered per module in the course itself, and i
 
 ## Licence
 
-Code in this repository is provided for course participants to follow along, adapt, and reuse in their own projects.
+MIT, see [LICENSE](LICENSE). Use, adapt, and reuse this code freely, including outside the course.
